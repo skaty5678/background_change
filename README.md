@@ -1,1 +1,1 @@
-#Change image background using computer vision with the help of libraries like opencv and mediapipe.
+## Change background of a Video or an image using OpenCV and mediapipe.
